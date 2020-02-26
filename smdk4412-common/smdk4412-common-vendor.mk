@@ -5,7 +5,7 @@
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
 #
-# http://www.apache.org/licenses/LICENSE-2.0
+# http:/www.apache.org/licenses/LICENSE-2.0
 #
 # Unless required by applicable law or agreed to in writing, software
 # distributed under the License is distributed on an "AS IS" BASIS,
@@ -51,18 +51,18 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk4412-common/proprietary/usr/idc/sec_touchscreen.idc:system/usr/idc/sec_touchscreen.idc \
     vendor/samsung/smdk4412-common/proprietary/usr/keylayout/gpio-keys.kl:system/usr/keylayout/gpio-keys.kl \
     vendor/samsung/smdk4412-common/proprietary/usr/keylayout/sii9234_rcp.kl:system/usr/keylayout/sii9234_rcp.kl \
-    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_BH.bin:system/vendor/firmware/SlimISP_BH.bin \
-    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_GD.bin:system/vendor/firmware/SlimISP_GD.bin \
-    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_GH.bin:system/vendor/firmware/SlimISP_GH.bin \
-    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_GK.bin:system/vendor/firmware/SlimISP_GK.bin \
-    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_JH.bin:system/vendor/firmware/SlimISP_JH.bin \
-    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_PH.bin:system/vendor/firmware/SlimISP_PH.bin \
-    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_WH.bin:system/vendor/firmware/SlimISP_WH.bin \
-    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_ZD.bin:system/vendor/firmware/SlimISP_ZD.bin \
-    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_ZH.bin:system/vendor/firmware/SlimISP_ZH.bin \
-    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_ZK.bin:system/vendor/firmware/SlimISP_ZK.bin \
-    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_ZM.bin:system/vendor/firmware/SlimISP_ZM.bin \
-    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/fimc_is_fw.bin:system/vendor/firmware/fimc_is_fw.bin \
-    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/mfc_fw.bin:system/vendor/firmware/mfc_fw.bin \
-    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/setfile.bin:system/vendor/firmware/setfile.bin \
-    vendor/samsung/smdk4412-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_BH.bin:vendor/firmware/SlimISP_BH.bin \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_GD.bin:vendor/firmware/SlimISP_GD.bin \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_GH.bin:vendor/firmware/SlimISP_GH.bin \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_GK.bin:vendor/firmware/SlimISP_GK.bin \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_JH.bin:vendor/firmware/SlimISP_JH.bin \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_PH.bin:vendor/firmware/SlimISP_PH.bin \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_WH.bin:vendor/firmware/SlimISP_WH.bin \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_ZD.bin:vendor/firmware/SlimISP_ZD.bin \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_ZH.bin:vendor/firmware/SlimISP_ZH.bin \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_ZK.bin:vendor/firmware/SlimISP_ZK.bin \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_ZM.bin:vendor/firmware/SlimISP_ZM.bin \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/fimc_is_fw.bin:vendor/firmware/fimc_is_fw.bin \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/mfc_fw.bin:vendor/firmware/mfc_fw.bin \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/setfile.bin:vendor/firmware/setfile.bin \
+    vendor/samsung/smdk4412-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:vendor/lib/mediadrm/libwvdrmengine.so
