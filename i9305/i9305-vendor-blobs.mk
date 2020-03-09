@@ -44,7 +44,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/libqmiservices.so:system/lib/libqmiservices.so \
     $(LOCAL_PATH)/proprietary/system/lib/libqmi.so:system/lib/libqmi.so \
     $(LOCAL_PATH)/proprietary/system/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
-    $(LOCAL_PATH)/proprietary/system/lib/libsec-ril.so:system/lib/libsec-ril.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libsec-ril.so:system/vendor/lib/libsec-ril.so \
     $(LOCAL_PATH)/proprietary/system/lib/libxml.so:system/lib/libxml.so
 
 PRODUCT_COPY_FILES += \

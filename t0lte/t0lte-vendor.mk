@@ -26,7 +26,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/t0lte/proprietary/lib/libakm.so:system/lib/libakm.so \
     vendor/samsung/t0lte/proprietary/lib/libcsd-client.so:system/lib/libcsd-client.so \
     vendor/samsung/t0lte/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/samsung/t0lte/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
+    vendor/samsung/t0lte/proprietary/lib/libsec-ril.so:system/vendor/lib/libsec-ril.so \
     vendor/samsung/t0lte/proprietary/lib/libxml.so:system/lib/libxml.so \
     vendor/samsung/t0lte/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/t0lte/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
